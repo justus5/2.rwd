@@ -92,17 +92,19 @@ body, html, figure {
       .tekst1 {
         position: absolute;
         bottom: -15vh;
-        left: 40vw;
+        width: 100%;
         font-size: 1.1rem;
         font-weight: bold;
+        text-align: center;
     }
     
      .tekst2 {
         position: absolute;
         bottom:  -25vh;
-        left: 18vw;
+        width: 100%;
         font-size: 1.5rem;
         font-weight: bold;
-         white-space: nowrap;
+        white-space: nowrap;
+        text-align: center;
     }
 }
